@@ -36,6 +36,12 @@ A full-stack, responsive e-commerce web application built with **Next.js 15**, *
 > Real-time cart state management displaying selected sizes, quantities, and automatic price tally.
 ![Cart Page Preview](./screenshots/cart-preview.png)
 
+### 5. 🛒 Cart with Items (Filled)
+![Cart Filled Preview](./screenshots/cart-filled-preview.png)
+
+### 6. ✅ Order Success
+![Order Success Preview](./screenshots/order-success-preview.png)
+
 ---
 
 ## 🏛️ System Architecture & Port Mapping
