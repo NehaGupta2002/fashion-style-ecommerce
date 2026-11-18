@@ -39,8 +39,11 @@ A full-stack, responsive e-commerce web application built with **Next.js 15**, *
 ### 5. 🛒 Cart with Items (Filled)
 ![Cart Filled Preview](./screenshots/cart-filled-preview.png)
 
-### 6. ✅ Order Success
-![Order Success Preview](./screenshots/order-success-preview.png)
+### 6. 🛒 Cart with Items (Another)
+![Cart Filled Preview 2](./screenshots/cart-filled-preview.png)
+
+### 7. ✅ Order Success
+![Order Success Preview](./screenshots/order-success-preview.jpg)
 
 ---
 
