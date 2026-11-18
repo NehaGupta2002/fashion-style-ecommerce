@@ -16,25 +16,25 @@ A full-stack, responsive e-commerce web application built with **Next.js 15**, *
 
 ### 1. 🏠 Homepage & Hero Banners
 > Clean hero carousel showcasing the latest drops, summer sales, and trending collections.
-![Homepage Preview](./screenshots/home.png)
+![Homepage Preview](./screenshots/home-preview.png)
 
 ---
 
 ### 2. 👕 Shop Catalog & Working Pagination
 > Grid catalog with interactive page numbers (`< 1 2 >`), dynamic "Show count" selector, and multi-criteria sorting.
-![Shop Page Preview](./screenshots/shop.png)
+![Shop Page Preview](./screenshots/shop-preview.png)
 
 ---
 
 ### 3. 🔍 Single Product Details & Size Selector
 > Detailed product view with high-res imagery, size selector (`S`, `M`, `L`, `XL`), quantity controls, and instant "Add to Cart" or "Buy Now".
-![Product Page Preview](./screenshots/product.png)
+![Product Page Preview](./screenshots/product-preview.png)
 
 ---
 
 ### 4. 🛒 Shopping Cart & Order Summary
 > Real-time cart state management displaying selected sizes, quantities, and automatic price tally.
-![Cart Page Preview](./screenshots/cart.png)
+![Cart Page Preview](./screenshots/cart-preview.png)
 
 ---
 
