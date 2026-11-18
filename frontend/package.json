@@ -1,0 +1,41 @@
+{
+  "name": "fashion-style",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.1.0",
+    "@mui/material": "^7.1.0",
+    "@mui/styled-engine-sc": "^7.1.0",
+    "@reduxjs/toolkit": "^2.6.1",
+    "@toolpad/core": "^0.15.0",
+    "axios": "^1.8.4",
+    "formik": "^2.4.6",
+    "framer-motion": "^12.12.1",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^0.483.0",
+    "next": "15.2.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-multi-carousel": "^2.8.6",
+    "react-redux": "^9.2.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^7.6.1",
+    "styled-components": "^6.1.18",
+    "tailwind-scrollbar": "^4.0.2",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.15"
+  }
+}
